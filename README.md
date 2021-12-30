@@ -1,5 +1,7 @@
 # todo-app
 
+Live Demo : https://vue3-todo-app.netlify.app/
+
 ## Project setup
 ```
 npm install
